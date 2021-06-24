@@ -7,7 +7,7 @@
 
  
   
-- 🤓 I’m currently **BASH** & **Python**  
+- 🤓 I’m currently learning **BASH** ,**Python** & **JavaScript** 
   
 - 💬 Ask me about **Web Development**  
   
