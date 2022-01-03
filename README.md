@@ -24,6 +24,9 @@
 
 [![Spotify](https://github-spotify-now-playin.vercel.app/api/spotify)](https://open.spotify.com/user/31ke65y4vvmlqqqsjybg3foclmw4)
 
+# My Daily.dev Card
+<a href="https://app.daily.dev/adityakrcodes"><img src="https://api.daily.dev/devcards/6d125c10383a4d71aee776ab78253370.png?r=cp3" width="400" alt="Aditya Kumar's Dev Card"/></a>
+
 <h3 align="left">Support:</h3>  
 <p><a href="https://www.buymeacoffee.com/adityakrcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityakrcodes" /></a></p><br><br>  
  
