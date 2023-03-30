@@ -25,7 +25,7 @@
 
 ---
 ## 🎧What I am listening to:
-[![Spotify](https://adityakrcodes-spotify-status.vercel.app/api/spotify)](https://open.spotify.com/user/31ke65y4vvmlqqqsjybg3foclmw4)
+[![Spotify](https://adityakrcodes-spotify-status.vercel.app/api/spotify)](https://volt.fm/adityakrcodes)
 
 ---
 ## 💰You can help me by Donating
