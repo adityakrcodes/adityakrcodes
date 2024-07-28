@@ -24,10 +24,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-## 🎧What I am listening to:
-[![Spotify](https://adityakrcodes-spotify-status.vercel.app/api/spotify)](https://volt.fm/adityakrcodes)
-
----
 ## 💰You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakrcodes)
 <br>
