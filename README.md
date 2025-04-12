@@ -1,8 +1,8 @@
 ## Hey there, I'm Aditya - AdityaKrCodes 👋
-### A passionate frontend developer from India
+### A passionate MERN developer and a Blockchain enthusiast from India 🇮🇳
 
 ### 💬 Ask me about Web Dev and Linux
-## Building [HackAdemy](https://hackademy.adityakrcodes.com)
+## Building [AKC Web Media](https://akcwebmedia.com)
 
 ---
 ## 🌐Socials:
@@ -17,9 +17,6 @@
 ![](https://streak-stats.demolab.com?user=adityakrcodes&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakrcodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 ## 💰You can help me by Donating
