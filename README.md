@@ -2,7 +2,7 @@
 ### A passionate MERN developer and a Blockchain enthusiast from India 🇮🇳
 
 ### 💬 Ask me about Web Dev and Linux
-## Building [AKC Web Media](https://akcwebmedia.com)
+## Building [Aether Web Media](https://akcwebmedia.com)
 
 ---
 ## 🌐Socials:
